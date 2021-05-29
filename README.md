@@ -1,7 +1,9 @@
-<div>
+<link rel="stylesheet" type="text/css" media="all" href="read_me.css" />
+<div class="main-container">
 <div>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Aditya Raj 👨‍💻
   <br>
+
   💬 Ask me about Flutter, GraphQL, Ruby on Rails and GraphQL.
 </div>
 <div align="right">
