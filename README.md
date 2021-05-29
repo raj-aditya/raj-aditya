@@ -7,6 +7,7 @@
   💬 Ask me about Flutter, GraphQL and Ruby on Rails.
 
 </p>
+<br>
 
 ## ⚡ Tech Stack
 <p>
@@ -57,4 +58,4 @@
 
 
 ###  🔍 Find me at:
-   ![Linkedin Badge](https://img.shields.io/badge/-AdityaRaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/aditya-raj-b03480163/")
+   <a href="https://www.linkedin.com/in/aditya-raj-b03480163/"><img src="https://img.shields.io/badge/-AdityaRaj-blue?style=flat-square&logo=Linkedin&logoColor=white" width="100px" alt="LinkedIn"></a> 
