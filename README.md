@@ -1,10 +1,12 @@
 <div>
+<div>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Aditya Raj 👨‍💻
   <br>
   💬 Ask me about Flutter, GraphQL, Ruby on Rails and GraphQL.
 </div>
 <div align="right">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
+</div>
 </div>
 
 ## ⚡ Tech Stack
@@ -57,4 +59,4 @@
 ### ⚙️ GitHub Analytics
 
 ### Find me at:
-   [![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link="")]
+   [![Linkedin Badge](https://img.shields.io/badge/-AdityaRaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link="")]
