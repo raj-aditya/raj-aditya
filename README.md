@@ -2,15 +2,17 @@
 <p>
   <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200">
 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Aditya Raj 👨‍💻
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Aditya Raj 👨‍💻
 
-  💬  Ask me about React, Spring Boot, Flutter, GraphQL and Ruby on Rails.
+I create innovative and impactful solutions for the software industry. I am passionate about full-stack development, with expertise in Java, Ruby, Spring Boot, Ruby on Rails, Flutter, React, SQL, RestFul and Graphql APIs, and experience in using tools such as GIT, PostgreSQL, MySQL, Jira, Tableau, Docker, AWS, Heroku, Graphql, and Rest API.
 
 </p>
 <br>
 
 ## ⚡ Tech Stack
 <p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="flutter" width="40" height="40"/>
+    &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="flutter" width="40" height="40"/>
     &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
