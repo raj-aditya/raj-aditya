@@ -60,10 +60,12 @@ I create innovative and impactful solutions for the software industry. I am pass
     <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/>
 </p>
 
-<br>
+
+
 ###  🔍  Find me at:
    <a href="https://www.linkedin.com/in/aditya-raj-b03480163/"><img src="https://img.shields.io/badge/-AdityaRaj-blue?style=flat-square&logo=Linkedin&logoColor=white" width="100px" alt="LinkedIn"></a>
 
-<br>
+
+
 ### :fire: My Stats :
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=raj-aditya&theme=merko&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
