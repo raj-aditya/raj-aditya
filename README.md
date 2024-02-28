@@ -67,5 +67,3 @@ I create innovative and impactful solutions for the software industry. I am pass
 ### :fire: My Stats :
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=raj-aditya&theme=merko&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
