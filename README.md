@@ -11,6 +11,8 @@
 
 ## ⚡ Tech Stack
 <p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="flutter" width="40" height="40"/>
+    &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
     &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/>
