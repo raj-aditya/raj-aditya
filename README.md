@@ -63,3 +63,6 @@ I create innovative and impactful solutions for the software industry. I am pass
 
 ###  🔍  Find me at:
    <a href="https://www.linkedin.com/in/aditya-raj-b03480163/"><img src="https://img.shields.io/badge/-AdityaRaj-blue?style=flat-square&logo=Linkedin&logoColor=white" width="100px" alt="LinkedIn"></a> 
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=raj-aditya&theme=dark" alt="GitHub Streak" /></a>
+
